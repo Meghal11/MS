@@ -1,1 +1,1 @@
-This is my web portfolio with all my credientials and projects. Fully responsive website.
+This is my web portfolio with all my credentials and projects. Fully responsive website.
